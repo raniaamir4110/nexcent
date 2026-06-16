@@ -1,0 +1,7 @@
+:root{
+    --primary : #18191f
+}
+
+.blackcolor{
+    color: var(--primary);
+}
